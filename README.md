@@ -1,5 +1,18 @@
-# 💫Hi👋, I'm Sakshi Jaiswal
-<br>🚀 Currently Working On:- Building the NetflixGPT project in ReactJS, Tailwind CSS, and HTML.<br>🌟 Looking to Collaborate On:- Exciting design projects where I can contribute my UI/UX expertise.<br> 🆘 Looking for Help With:- Enhancing my skills in ReactJS and Tailwind CSS.<br> 📚 Currently Learning:- ReactJS and Tailwind CSS.<br> 💬 Ask Me About:- Anything related to UI/UX design or my ongoing projects!<br>🎉 Fun Fact:- I once redesigned an entire website just because I didn't like the font used in the header.<br>
+<h1 align="center">Hi 👋, I'm Sakshi Jaiswal</h1>
+
+
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ospingh861&label=Profile%20views&color=0e75b6&style=flat" alt="ospingh861" /> </p>
+
+-   📫 How to reach me **jaiswalsakshi7890@gmail.com**
+
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=Rohit-2412&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p> -->
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/sakshi-jaiswal0603/" target="blank"><img align="center" src="https://www.pinclipart.com/picdir/middle/97-971470_linkedin-linkedin-social-media-icons-clipart.png" alt="Rohit-2412" height="30" width="40" /></a>
+</p>
 
 
 ## 🌐 Socials:
