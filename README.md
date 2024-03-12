@@ -1,10 +1,25 @@
-<h1 align="center">Hi 👋, I'm Sakshi Jaiswal</h1>
-
-
+# Hello, I'm [Sakshi Jaiswal!](https://www.linkedin.com/in/sakshi-jaiswal0603/)
 
 -   📫 How to reach me **jaiswalsakshi7890@gmail.com**
 
+## key features 🚀 Currently Working On:
+- Building the NetflixGPT project in ReactJS, Tailwind CSS, and HTML.<br>
 
+ 🌟 Looking to Collaborate On:
+- Exciting design projects where I can contribute my UI/UX expertise.<br>
+
+ 🆘 Looking for Help With:
+- Enhancing my skills in ReactJS and Tailwind CSS.<br>
+
+ 📚 Currently Learning:
+- ReactJS and Tailwind CSS.<br>
+
+### 💬 Ask Me About:
+- Anything related to UI/UX design or my ongoing projects!<br>
+
+### 🎉 Fun Fact:
+- I once redesigned an entire website just because I didn't like the font used in the header.
+<br>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
