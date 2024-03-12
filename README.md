@@ -2,7 +2,9 @@
 
 -   📫 How to reach me **jaiswalsakshi7890@gmail.com**
 
-## key features 🚀 Currently Working On:
+## Key features
+<br>
+🚀 Currently Working On:
 - Building the NetflixGPT project in ReactJS, Tailwind CSS, and HTML.<br>
 
  🌟 Looking to Collaborate On:
