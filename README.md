@@ -1,7 +1,5 @@
 # Hello, I'm [Sakshi Jaiswal!](https://www.linkedin.com/in/sakshi-jaiswal0603/)
 
--   📫 How to reach me **jaiswalsakshi7890@gmail.com**
-
 ## About Me
 🚀 Currently Working On:- Building the NetflixGPT project in ReactJS, Tailwind CSS, and HTML.<br>
 🌟 Looking to Collaborate On:- Exciting design projects where I can contribute my UI/UX expertise.<br>
@@ -10,6 +8,8 @@
 💬 Ask Me About:- Anything related to UI/UX design or my ongoing projects!<br>
 🎉 Fun Fact: - I once redesigned an entire website just because I didn't like the font used in the header.
 <br>
+
+-   📫 How to reach me **jaiswalsakshi7890@gmail.com**
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/jais0603) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jais0603) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@jaiswalsakshi7890) 
